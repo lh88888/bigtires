@@ -20,7 +20,7 @@
 
 下载本项目源码文件夹，放进你所在的项目中即可使用
 
-![手动导入](E:\tools\goproject\src\go_code\bigtires\img\手动导入.png)
+![本地导入](http://r.photo.store.qq.com/psc?/V14Oe6f7253wNI/heyUv10nwEJXJa0yD1Kntmcbd.bD6HqL1KoaA7t2tBnto74teTfvNE20bLt4rfOwIQgDnWmNILEwCw3Trx.nH3gJ19bKPoQM8GaBR00iwbE!/r)
 
 ## str类型：
 
